@@ -18,6 +18,7 @@ const eventManager = {
 
             if (!hasError) {
                 const cardHTML = createHTML.card(textValue, idNum);
+                console.log(cardHTML);
 
                 // DOMManager.addCard(card)
                 // eventManager.delete()
