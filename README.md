@@ -9,6 +9,15 @@ Date Created: 02/06/20 | Date Modified: 02/06/20
 Preview assignment here: https://trinity-alpha-omega.netlify.com/
 ***
 
-Add short description of assignment
-
 ![](screenshot.png)
+
+## Description
+- This application makes cards based on the text entered in the textarea by the user
+
+## Features
+- User can select the background color for each card individually by selecting a color using the computer's default color picker input.
+
+- User can select the font color for each card individually by selecting a color using the computer's default color picker input.
+
+- User has the ability to delete each card individually by clicking assigned delete button
+
