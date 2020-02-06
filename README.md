@@ -11,4 +11,4 @@ Preview assignment here: https://trinity-alpha-omega.netlify.com/
 
 Add short description of assignment
 
-![](screenshot.png)# nss-excercises-alpha-omega
+![](screenshot.png)

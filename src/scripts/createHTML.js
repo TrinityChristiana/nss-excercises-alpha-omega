@@ -1,7 +1,8 @@
 const createHTML = {
     // creates html for card
     // * => string of html
-    card(id){
+    card(text, idNum){
+    console.log(text, idNum); 
         return `
 
         `
@@ -10,5 +11,6 @@ const createHTML = {
     // return card
     }
 }
+export default createHTML;
 
     
