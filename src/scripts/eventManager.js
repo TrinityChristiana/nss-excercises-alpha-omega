@@ -2,7 +2,7 @@ import createHTML from './createHTML.js';
 import DOMManager from './DOMManager.js';
 import inputManager from './inputManager.js';
 import validate from './validate.js';
-// @ts-check
+
 let i = 0;
 let counterArray = [];
 const eventManager = {

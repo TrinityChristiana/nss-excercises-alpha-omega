@@ -1,4 +1,3 @@
-import eventManager from "./eventManager.js";
 import inputManager from "./inputManager.js";
 
 const DOMManager = {
@@ -23,7 +22,6 @@ const DOMManager = {
     fontColor(id) {
         const color = inputManager.getValue(`font-input--${id}`);
         document.getElementById(`summary--${id}`).style.color = color;
-
     },
 };
 
